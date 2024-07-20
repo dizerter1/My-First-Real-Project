@@ -3,11 +3,5 @@ pandas
 plotly
 folium
 scikit-learn
-plotly.express
 matplotlib
 seaborn
-json
-folium.features
-sklearn.decomposition
-folium.plugins
-sklearn.impute
